@@ -1,0 +1,17 @@
+function getProfile() {
+  return {
+    name: 'Isna Kurnia Dewi',
+    age: 23,
+    address: 'Surotrunan RT002/RW004 Alian Kebumen Jawa Tengah',
+    hobbies: ['Browsing'],
+    is_married: false,
+    list_school: [{
+      name: 'SMK PGRI 1 Kebumen',
+      year_in: 2011,
+      year_out: 2014'
+      major:"null"
+    }], 
+    skills: [{
+    }],
+    interest_in_coding: true'
+  }
